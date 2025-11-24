@@ -97,8 +97,8 @@ WHERE biological > 0.01 AND results = 'Clean';
 |-------------------|------------|------------|-------------------|
 | 🚰 Shared Taps | 11.9M | 43% | 2,071 |
 | 🕳️ Wells | 4.8M | 18% | 279 |
-| 🏠 Home Taps (working) | 4.7M | 17% | 644* |
-| 🔧 Home Taps (broken) | 3.8M | 14% | 649* |
+| 🏠 Home Taps (working) | 4.7M | 17% | 644 |
+| 🔧 Home Taps (broken) | 3.8M | 14% | 649 |
 | 🌊 Rivers | 2.4M | 9% | 699 |
 
 *\*Actually ~6 people per household (data aggregated)*
